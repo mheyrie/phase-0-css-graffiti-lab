@@ -1,1 +1,12 @@
 /* write your override styles here */
+.tag-1 {
+  background: url(../images/tag-1.png) no-repeat;
+  z-index: 7;
+  display: block;
+} 
+
+/* code to remove the graffiti tag from the wall fhbdhjdmfjdgndm dhdbvs hsvbljhsgvs hddsgbysl hdbhsdv */
+#wall .tag-1 {
+    display: none;
+}
+/* code has been adjusted to suit the assignment objectives*/
